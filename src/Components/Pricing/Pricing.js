@@ -3,7 +3,7 @@ import styled from 'styled-components'
 function Pricing(props) {
     return (
         <Container id="pricing">
-
+                <p>pricing page</p>
         </Container>
     );
 }

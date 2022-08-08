@@ -13,7 +13,7 @@ function Copyright(props) {
                     Made with
                     <FontAwesomeIcon icon={faHeart} color="white" style={Styling}/>
                     By
-                    <a href="https://www.instagram.com/ssef_ti/" target="_blank"> Monssef HOUTI</a>
+                    <a href="https://www.instagram.com/ssef_ti/" target="_blank" rel="noreferrer"> Monssef HOUTI</a>
                 </p>
             </Copyrights>
     );

@@ -19,7 +19,7 @@ function Notice() {
                 </LightSpeed>
 
                 <Fade bottom>
-                    <img src="/images/slider-7.png"/>
+                    <img src="/images/slider-7.png" alt=""/>
                 </Fade>
 
             </Wrap>

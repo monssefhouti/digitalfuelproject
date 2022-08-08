@@ -6,7 +6,7 @@ function ServicesBlocs() {
         <Container>
            <Fade left>
                 <Wrap className="WrapDev">
-                    <img src="/images/programming.png"/>
+                    <img src="/images/programming.png" alt=""/>
                     <span>
                         Web Development
                     </span>
@@ -17,7 +17,7 @@ function ServicesBlocs() {
            </Fade>
             <Fade right>
                 <Wrap >
-                    <img src="/images/bullhorn.png"/>
+                    <img src="/images/bullhorn.png" alt=""/>
                     <span>
                         Social Media Marketing
                     </span>
@@ -28,7 +28,7 @@ function ServicesBlocs() {
             </Fade>
             <Fade top>
                 <Wrap className="WrapHost">
-                    <img src="/images/launch.png"/>
+                    <img src="/images/launch.png" alt=""/>
                     <span>
                         Perfect Hosting
                     </span>
@@ -37,7 +37,7 @@ function ServicesBlocs() {
                     </p>
                 </Wrap>
                 <Wrap className="WrapWeb">
-                    <img src="/images/monitoring.png"/>
+                    <img src="/images/monitoring.png" alt=""/>
                     <span>
                         Website Maintenance
                     </span>
